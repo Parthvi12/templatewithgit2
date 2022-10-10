@@ -1,6 +1,10 @@
 {
   "pages": [
     {
+      "id": "Search",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     }
@@ -9,9 +13,15 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#ECECEC",
-  "icon": "heart",
+  "icon": "pizza",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "evaluationVersion": 2,
-  "applicationVersion": 2,
+  "applicationVersion": 1,
   "isManualUpdate": false,
   "deleted": false
 }
